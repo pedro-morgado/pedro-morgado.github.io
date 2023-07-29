@@ -1,6 +1,6 @@
-@InProceedings{mo2022_slavc,
-  title={A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition},
-  author={Shentong Mo, Pedro Morgado},
-  booktitle={Proceedings of the 40th International Conference on Machine Learning (ICML)},
+@InProceedings{wu2023_robust_prompt_tuning,
+  title={Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels?},
+  author={Cheng-En Wu, Yu Tian, Haichao Yu, Heng Wang, Pedro Morgado, Yu Hen Hu, Linjie Yang},
+  booktitle={International Conference in Computer Vision (ICCV)},
   year={2023}
 }
