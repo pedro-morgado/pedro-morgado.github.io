@@ -3,7 +3,7 @@ id:             2024-av-zsl
 title:          "Audio-visual Generalized Zero-shot Learning the Easy Way"
 authors:        [Shentong, Me]
 venue:          European Conference on Computer Vision (ECCV), 2024.
-year:           "2024-07"
+year:           "2024-06"
 thumbnail:      https://media1.tenor.com/m/8tbLhifgyEEAAAAC/excited.gif
 bibtex:         "@InProceedings{mo24avzsl,<br>&emsp;title={Audio-visual Generalized Zero-shot Learning the Easy Way},<br>&emsp;author={Mo, Shentong and Morgado, Pedro},<br>&emsp;booktitle={European Conference on Computer Vision (ECCV)},<br>&emsp;year={2024}<br>&emsp;}"
 links:
