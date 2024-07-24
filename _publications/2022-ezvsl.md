@@ -1,7 +1,7 @@
 ---
 id:             2022-ezvsl
 title:          "Localizing Visual Sounds the Easy Way"
-authors:        [ShentongMo, Me]
+authors:        [Shentong, Me]
 venue:          European Conference on Computer Vision (ECCV), Tel Aviv, Israel, 2022.
 year:           "2022-02"
 thumbnail:      assets/publications/2022-ezvsl/ezvsl.gif

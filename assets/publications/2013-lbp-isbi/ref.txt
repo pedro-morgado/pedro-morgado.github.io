@@ -1,6 +1,6 @@
 @inproceedings{Morgado:ISBI2013b,
   title={Extending Local Binary Patterns to 3D for the diagnosis of Alzheimer's disease},
-  author={Morgado, Pedro M and Silveira, Margarida and Marques, Jorge S},
+  author={Morgado, Pedro and Silveira, Margarida and Marques, Jorge S},
   booktitle={IEEE 10th International Symposium on Biomedical Imaging},
   year={2013}
 }

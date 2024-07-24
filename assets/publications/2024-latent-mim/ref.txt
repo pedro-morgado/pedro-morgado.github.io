@@ -1,0 +1,6 @@
+@InProceedings{wei24latentmim,
+  title={Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning},
+  author={Wei, Yibing and Gupta, Abhinav and Morgado, Pedro},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2024},
+}

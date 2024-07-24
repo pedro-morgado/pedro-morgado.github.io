@@ -1,6 +1,6 @@
 @ InProceedings{morgado2021avid,
   title={Audio-Visual Instance Discrimination with Cross-Modal Agreement},
-  author={Pedro Morgado, Nuno Vasconcelos, Ishan Misra},
+  author={Pedro Morgado and Nuno Vasconcelos and Ishan Misra},
   booktitle = {Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf. on },
   year={2021}
 }

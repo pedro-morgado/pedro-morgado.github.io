@@ -1,6 +1,6 @@
 @inproceedings{Morgado:ISBI2013,
   title={Efficient selection of non-redundant features for the diagnosis of Alzheimer's disease},
-  author={Morgado, Pedro M and Silveira, Margarida and Marques, Jorge S},
+  author={Morgado, Pedro and Silveira, Margarida and Marques, Jorge S},
   booktitle={IEEE 10th International Symposium on Biomedical Imaging},
   year={2013}
 }

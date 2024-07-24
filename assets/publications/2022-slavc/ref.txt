@@ -1,6 +1,6 @@
 @InProceedings{mo2022_slavc,
   title={A Closer Look at Weakly-Supervised Audio-Visual Source Localization},
-  author={Shentong Mo, Pedro Morgado},
+  author={Shentong Mo and Pedro Morgado},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
 }

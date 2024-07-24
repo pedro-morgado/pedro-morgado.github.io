@@ -1,6 +1,6 @@
 @inproceedings{morgadoNIPS18,
   title={Self-Supervised Generation of Spatial Audio for 360\deg Video},
-  author={Pedro Morgado, Nuno Vasconcelos, Timothy Langlois and Oliver Wang},
+  author={Pedro Morgado and Nuno Vasconcelos and Timothy Langlois and Oliver Wang},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2018}
 }

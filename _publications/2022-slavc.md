@@ -1,7 +1,7 @@
 ---
 id:             2022-slavc
 title:          "A Closer Look at Weakly-Supervised Audio-Visual Source Localization"
-authors:        [ShentongMo, Me]
+authors:        [Shentong, Me]
 venue:          Neural Information Processing Systems (NeurIPS), New Orleans, 2022.
 year:           "2022-08"
 thumbnail:      assets/publications/2022-slavc/framework.png

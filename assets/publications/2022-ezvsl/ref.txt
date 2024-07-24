@@ -1,6 +1,6 @@
 @InProceedings{mo2022_ezvsl,
   title={Localizing Visual Sounds the Easy Way},
-  author={Shentong Mo, Pedro Morgado},
+  author={Shentong Mo and Pedro Morgado},
   booktitle={European Conference on Computer Vision (ECCV)},
   year={2022}
 }

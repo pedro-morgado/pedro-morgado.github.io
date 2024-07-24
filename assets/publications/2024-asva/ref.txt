@@ -1,6 +1,6 @@
-@article{zhang2024asva,
+@InProceedings{zhang2024asva,
   title={Audio-Synchronized Visual Animation},
-  author={Lin Zhang, Shentong Mo, Yijing Zhang, Pedro Morgado},
-  journal={ArXiv},
+  author={Lin Zhang and Shentong Mo and Yijing Zhang and Pedro Morgado},
+  booktitle={European Conference on Computer Vision (ECCV)},
   year={2024},
 }

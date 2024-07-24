@@ -1,6 +1,6 @@
 @InProceedings{le2022_plankton_bench,
   title={Benchmarking and Automating the Image Recognition Capability of an In Situ Plankton Imaging System},
-  author={Kevin T. Le, Zhouyuan Yuan, Areeb Syed, Devin Ratelle, Eric C. Orenstein, Melissa L. Carter, Sarah Strang, Kasia M. Kenitz, Pedro Morgado, Peter J. S. Franks, Nuno Vasconcelos and Jules S. Jaffe},
+  author={Kevin T. Le and  Zhouyuan Yuan and  Areeb Syed and  Devin Ratelle and  Eric C. Orenstein and  Melissa L. Carter and  Sarah Strang and  Kasia M. Kenitz and  Pedro Morgado and  Peter J. S. Franks and  Nuno Vasconcelos and Jules S. Jaffe},
   booktitle={Frontiers in Marine Science},
   year={2022}
 }

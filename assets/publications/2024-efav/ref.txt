@@ -1,6 +1,6 @@
 @InProceedings{mo2023unveiling,
   title={Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling},
-  author={Mo, Shentong and Morgado, Pedro},
+  author={Shentong Mo and Pedro Morgado},
   booktitle = {Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf. on },
   year={2023}
 }

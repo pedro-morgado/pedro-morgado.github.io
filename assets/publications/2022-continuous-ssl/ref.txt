@@ -1,6 +1,6 @@
 @InProceedings{purushwalkam2022_continuous_ssl,
   title={The Challenges of Continuous Self-Supervised Learning},
-  author={Senthil Purushwalkam, Pedro Morgado, Abhinav Gupta},
+  author={Senthil Purushwalkam and Pedro Morgado and Abhinav Gupta},
   booktitle={European Conference on Computer Vision (ECCV)},
   year={2022}
 }

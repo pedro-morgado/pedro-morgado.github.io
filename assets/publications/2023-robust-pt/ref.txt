@@ -1,6 +1,6 @@
 @InProceedings{wu2023_robust_prompt_tuning,
   title={Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels?},
-  author={Cheng-En Wu, Yu Tian, Haichao Yu, Heng Wang, Pedro Morgado, Yu Hen Hu, Linjie Yang},
+  author={Cheng-En Wu and Yu Tian and Haichao Yu and Heng Wang and Pedro Morgado and Yu Hen Hu and Linjie Yang},
   booktitle={International Conference in Computer Vision (ICCV)},
   year={2023}
 }

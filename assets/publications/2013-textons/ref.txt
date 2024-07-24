@@ -1,6 +1,6 @@
 @inproceedings{Morgado:MLSP13,
   title={Texton-based diagnosis of Alzheimer's disease},
-  author={Pedro Morgado, Margarida Silveira and Durval Campos Costa},
+  author={Pedro Morgado and Margarida Silveira and Durval Campos Costa},
   booktitle={Machine Learning for Signal Processing (MLSP), 2013 IEEE International Workshop on},
   year={2013},
   organization={IEEE}

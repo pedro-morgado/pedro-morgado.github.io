@@ -1,0 +1,6 @@
+@InProceedings{mo24avzsl,
+  title={Audio-visual Generalized Zero-shot Learning the Easy Way},
+  author={Shentong Mo and Pedro Morgado},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2024},
+}

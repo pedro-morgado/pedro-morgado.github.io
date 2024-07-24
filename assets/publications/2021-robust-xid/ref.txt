@@ -1,6 +1,6 @@
 @ InProceedings{morgado2021_robust_xid,
   title={Robust Audio-Visual Instance Discrimination},
-  author={Pedro Morgado, Ishan Misra, Nuno Vasconcelos},
+  author={Pedro Morgado and Ishan Misra and Nuno Vasconcelos},
   booktitle = {Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf. on },
   year={2021}
 }
