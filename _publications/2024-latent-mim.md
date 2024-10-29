@@ -2,7 +2,7 @@
 id:             2024-latent-mim
 title:          "Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning"
 authors:        [Yibing, Abhinav, Me]
-venue:          European Conference on Computer Vision (ECCV), 2024.
+venue:          European Conference on Computer Vision (ECCV), Milan, 2024.
 year:           "2024-07"
 thumbnail:      https://yibingwei-1.github.io/images/latentMIM.png
 bibtex:         "@InProceedings{wei2024lmim,<br>&emsp;title={Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning},<br>&emsp;author={Yibing Wei and Abhinav Gupta and Pedro Morgado},<br>&emsp;booktitle={European Conference on Computer Vision (ECCV)},<br>&emsp;year={2024}<br>&emsp;}"
