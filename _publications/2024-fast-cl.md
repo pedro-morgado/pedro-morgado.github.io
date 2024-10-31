@@ -7,8 +7,8 @@ year:           "2024-12"
 thumbnail:      assets/publications/2024-fast-cl/banner.png
 bibtex:         "@InProceedings{lin2024fastcl,<br>&emsp;title={Accelerating Augmentation Invariance Pretraining},<br>&emsp;author={Jinhong Lin and Cheng-En Wu and Yibing Wei and Pedro Morgado},<br>&emsp;booktitle={Advances in Neural Information Processing Systems (NeurIPS)},<br>&emsp;year={2024}<br>&emsp;}"
 links:
-  bibtex:     assets/publications/2024-fast-cl/ref.txt
-#    paper:      https://arxiv.org/abs/2407.15837
+    paper:      https://arxiv.org/abs/2410.22364
+    bibtex:     assets/publications/2024-fast-cl/ref.txt
 #    code:       https://github.com/yibingwei-1/LatentMIM
 #    website:    https://yibingwei-1.github.io/projects/lmim/lmim.html
 
