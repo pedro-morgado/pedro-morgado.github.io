@@ -165,27 +165,54 @@
     <div class="col-12 col-lg-4 px-0 mt-3 mt-lg-0">
       <h2 class="col-12 px-0 mb-1">PhD Students</h2>
       <ul class="my-0 px-2" style="list-style-type: none; ">
-        {% for course in site.data.group.phd %}
-        <li>{{ course }}</li>
+        {% for student in site.data.group.phd %}
+          {% assign student_info = site.data.people[student] %}
+          {% if student_info %}
+            <li>
+              <a style="color:#063d96" href="{{ student_info.website }}">{{ student_info.name }}</a>
+              {% if student_info.notes %}{{ student_info.notes }} {% endif %}
+            </li>
+          {% else %}
+            <li>{{ student }}</li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
+
     <div class="col-12 col-lg-4 px-0 mt-3 mt-lg-0">
       <h2 class="col-12 px-0 mb-1">MSc/Undergrad Students</h2>
       <ul class="my-0 px-2" style="list-style-type: none; ">
-        {% for course in site.data.group.msc %}
-        <li>{{ course }}</li>
+        {% for student in site.data.group.msc %}
+          {% assign student_info = site.data.people[student] %}
+          {% if student_info %}
+            <li>
+              <a style="color:#063d96" href="{{ student_info.website }}">{{ student_info.name }}</a>
+              {% if student_info.notes %}{{ student_info.notes }} {% endif %}
+            </li>
+          {% else %}
+            <li>{{ student }}</li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
+
     <div class="col-12 col-lg-4 px-0 mt-3 mt-lg-0">
       <h2 class="col-12 px-0 mb-1">External Student Collaborators</h2>
       <ul class="my-0 px-2" style="list-style-type: none; ">
-        {% for course in site.data.group.collabs %}
-        <li>{{ course }}</li>
+        {% for student in site.data.group.collabs %}
+          {% assign student_info = site.data.people[student] %}
+          {% if student_info %}
+            <li>
+              <a style="color:#063d96" href="{{ student_info.website }}">{{ student_info.name }}</a>
+              {% if student_info.notes %}{{ student_info.notes }} {% endif %}
+            </li>
+          {% else %}
+            <li>{{ student }}</li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
+
   </div>
 </section>
 

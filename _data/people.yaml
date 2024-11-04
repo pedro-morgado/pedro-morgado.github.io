@@ -3,12 +3,13 @@ Me:
   website: https://pedro-morgado.github.io/
 
 Jones:
-  name: Jinhong Lin
+  name: Jinhong (Jones) Lin
   website: https://scholar.google.com/citations?user=v4UwIYMAAAAJ&hl=en
 
 ChengEn:
   name: Cheng-En Wu
   website: https://cewu.github.io/
+  notes: (w/ Yu Hen Hu)
 
 Lin:
   name: Lin Zhang
@@ -17,6 +18,10 @@ Lin:
 Yibing:
   name: Yibing Wei
   website: https://yibingwei-1.github.io/
+
+Yijing:
+  name: Yijing Zhang
+  website: https://yijingz02.github.io/
 
 YuHen:
   name: Yu Hen Hu
@@ -57,6 +62,7 @@ Peter:
 Shentong:
   name: Shentong Mo
   website: https://scholar.google.com/citations?user=6aYncPAAAAAJ&hl=en
+  notes: (CMU)
 
 Tim:
   name: Timothy Langlois
