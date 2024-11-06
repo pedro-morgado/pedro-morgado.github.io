@@ -1,12 +1,8 @@
 ---
 id:             2018-spatialaudiogen
 title:          Self-Supervised Generation of Spatial Audio for 360° Video
-authors:        
-    - Me
-    - Nuno
-    - Tim
-    - Oliver
-venue:          Neural Information Processing Systems (NeurIPS), Montreal, Canada, 2018.
+authors:        [Me, Nuno, Tim, Oliver]
+venue:          Neural Information Processing Systems (NeurIPS), Montreal, 2018.
 year:           "2018-12"
 thumbnail:      assets/publications/2018-spatialaudiogen/thumbnail.png
 bibtex:         "@inproceedings{morgadoNIPS18,<br>&emsp;title={Self-Supervised Generation of Spatial Audio for 360&deg Video},<br>&emsp;author={Pedro Morgado, Nuno Vasconcelos, Timothy Langlois and Oliver Wang},<br>&emsp;booktitle={Advances in Neural Information Processing Systems (NeurIPS)},<br>&emsp;year={2018}<br>}"

@@ -1,8 +1,7 @@
 ---
 id:             2021-thesis
 title:          "Learning to see and hear without human supervision"
-authors:        
-    - Me
+authors:        [Me]
 venue:          PhD Thesis, University of California San Diego, 2021.
 year:           "2021b"
 thumbnail:      assets/publications/2021-phdthesis/ucsd.png

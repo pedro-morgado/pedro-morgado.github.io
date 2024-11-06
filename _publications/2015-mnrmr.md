@@ -1,9 +1,7 @@
 ---
 id:             2015-mnrmr
 title:          "Minimal Neighborhood Redundancy Maximal Relevance: Application to the Diagnosis of Alzheimer's Disease"
-authors:        
-    - Me
-    - Margarida
+authors:        [Me, Margarida]
 venue:          Neurocomputing, Vol. 155, pp. 295-308, May, 2015.
 year:           "2015"
 thumbnail:      assets/publications/2015-mnrmr/thumbnail.jpg

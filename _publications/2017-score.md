@@ -1,10 +1,8 @@
 ---
 id:             2017-score
 title:          Semantically Consistent Regularization for Zero-Shot Recognition
-authors:        
-    - Me
-    - Nuno
-venue:          IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), Honolulu, Hawaii, 2017.
+authors:        [Me, Nuno]
+venue:          IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), Honolulu, 2017.
 year:           "2017-06"
 thumbnail:      assets/publications/2017-score/thumbnail.png
 bibtex:         "@inproceedings{morgadoCVPR17,<br>&emsp;title={Semantically Consistent Regularization for Zero-Shot Recognition},<br>&emsp;author={Pedro Morgado and Nuno Vasconcelos},<br>&emsp;booktitle={Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf.~on},<br>&emsp;year={2017},<br>&emsp;organization={IEEE}<br>}"

@@ -1,11 +1,8 @@
 ---
 id:             2013-textons
 title:          "Texton-based Diagnosis of Alzheimer's Disease"
-authors:        
-    - Me
-    - Margarida
-    - DurvalCosta
-venue:          IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP), Southampton, UK, 2013.
+authors:        [Me, Margarida, DurvalCosta]
+venue:          IEEE Int. Workshop on Machine Learning for Signal Processing (MLSP), Southampton, 2013.
 year:           "2013"
 thumbnail:      assets/publications/2013-textons/thumbnail.png
 bibtex:         "@inproceedings{Morgado:MLSP13,<br>&emsp;title={Texton-based diagnosis of Alzheimer's disease},<br>&emsp;author={Pedro Morgado, Margarida Silveira and Durval Campos Costa},<br>&emsp;booktitle={Machine Learning for Signal Processing (MLSP), 2013 IEEE International Workshop on},<br>&emsp;year={2013},<br>&emsp;organization={IEEE}<br>}"

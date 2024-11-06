@@ -2,7 +2,7 @@
 id:             2023-oneavm
 title:          "A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition"
 authors:        [Shentong, Me]
-venue:          International Conference on Machine Learning (ICML), Honolulu, HI, 2023.
+venue:          International Conference on Machine Learning (ICML), Honolulu, 2023.
 year:           "2023-04"
 thumbnail:      assets/publications/2023-oneavm/title-image.png
 bibtex:         "@InProceedings{mo2022_slavc,<br>&emsp;title={A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition},<br>&emsp;author={Shentong Mo, Pedro Morgado},<br>&emsp;booktitle={Proceedings of the 40th International Conference on Machine Learning (ICML)},<br>&emsp;year={2023}<br>}"

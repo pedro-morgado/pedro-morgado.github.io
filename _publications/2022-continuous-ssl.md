@@ -5,7 +5,7 @@ authors:
     - [Senthil, "*"]
     - [Me, "*"]
     - Abhinav
-venue:          European Conference on Computer Vision (ECCV), Tel Aviv, Israel, 2022.
+venue:          European Conference on Computer Vision (ECCV), Tel Aviv, 2022.
 year:           "2022-03"
 highlight:      "Oral presentation"
 thumbnail:      assets/publications/2022-continuous-ssl/thumbnail.gif

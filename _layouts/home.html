@@ -264,10 +264,15 @@
 
             {% assign author_info = site.data.people[author2] %}
             {% if author_info %}
-              {% if author_info.website %}
-                <a style="color:#063d96" href="{{ author_info.website }}">{{ author_info.name }}</a>{{ extra }}{% if forloop.last == false %},&nbsp{% endif %}
+              {% if author_info.pubname %}
+                {% assign author_name = author_info.pubname %}
               {% else %}
-                {% if author2 == "Me" %}<b>{% endif %}{{ author_info.name }}{% if author2 == "Me" %}</b>{% endif %}
+                {% assign author_name = author_info.name %}
+              {% endif %}
+              {% if author_info.website %}
+                <a style="color:#063d96" href="{{ author_info.website }}">{{ author_name }}</a>{{ extra }}{% if forloop.last == false %},&nbsp{% endif %}
+              {% else %}
+                {% if author2 == "Me" %}<b>{% endif %}{{ author_name }}{% if author2 == "Me" %}</b>{% endif %}
               {% endif %}
             {% else %}
               {{ author2 }}{{ extra }}{% if forloop.last == false %},&nbsp{% endif %}

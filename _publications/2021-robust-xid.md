@@ -1,10 +1,7 @@
 ---
 id:             2021-robust-xid
 title:          "Robust Audio-Visual Instance Discrimination"
-authors:
-    - Me 
-    - Ishan
-    - Nuno
+authors:        [Me, Ishan, Nuno]
 venue:          IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2021.
 year:           "2021-03"
 highlight:      "Oral presentation"
