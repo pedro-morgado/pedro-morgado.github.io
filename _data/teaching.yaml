@@ -1,4 +1,12 @@
-- <b>ECE 204</b> - Data Science & Engineering (Fall 2024)
-- <b>CS/ECE/ME 532</b> - Matrix Methods in Machine Learning (Fall 2022, Spring 2023)
-- <b>CS/ECE 539</b> - Intro to Artificial Neural Networks (Fall 2023, Spring 2025)
-- <b>CS/ECE 766</b> - Computer Vision (Spring 2024)
+- semester: SP 2025
+  course: "CS/ECE 539: Intro to Artificial Neural Networks"
+- semester: FA 2024
+  course: "ECE 204 Data Science & Engineering"
+- semester: SP 2024
+  course: "CS/ECE 766: Computer Vision"
+- semester: FA 2023
+  course: "CS/ECE 539: Intro to Artificial Neural Networks"
+- semester: SP 2023
+  course: "CS/ECE/ME 532: Matrix Methods in Machine Learning"
+- semester: FA 2022
+  course: "CS/ECE/ME 532: Matrix Methods in Machine Learning"

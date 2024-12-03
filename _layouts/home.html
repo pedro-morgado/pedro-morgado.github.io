@@ -223,7 +223,7 @@
   <h1 class="col-12 px-0 mb-0">Teaching</h1>
   <ul class="my-0 px-2" style="list-style-type: none; ">
     {% for course in site.data.teaching %}
-    <li>{{ course }}</li>
+    <li><b>{{ course.semester }}</b> - {{ course.course }}</li>
     {% endfor %}
   </ul>
 </section>
