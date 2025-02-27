@@ -1,0 +1,6 @@
+@InProceedings{lin2025prototypes,
+  title={From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling},
+  author={Jinhong Lin and Cheng-En Wu and Huanran Li and Jifan Zhang and Yu Hen Hu and Pedro Morgado},
+  booktitle={IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
+  year={2025}
+}
