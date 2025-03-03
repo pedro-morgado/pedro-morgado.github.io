@@ -2,11 +2,11 @@
 id:             2021-robust-xid
 title:          "Robust Audio-Visual Instance Discrimination"
 authors:        [Me, Ishan, Nuno]
-venue:          IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2021.
+venue:          Conf. on Computer Vision and Pattern Recognition (CVPR), 2021.
 year:           "2021-03"
 highlight:      "Oral presentation"
 thumbnail:      assets/publications/2021-robust-xid/thumbnail.png
-bibtex:         "@InProceedings{morgado2021_robust_xid,<br>&emsp;title={Robust Audio-Visual Instance Discrimination},<br>&emsp;author={Pedro Morgado, Ishan Misra, Nuno Vasconcelos},<br>&emsp;booktitle={Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf. on },<br>&emsp;year={2021}}"
+bibtex:         "@InProceedings{morgado2021_robust_xid,<br>&emsp;title={Robust Audio-Visual Instance Discrimination},<br>&emsp;author={Pedro Morgado, Ishan Misra, Nuno Vasconcelos},<br>&emsp;booktitle={Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf. on },<br>&emsp;year={2021}<br>}"
 links:
     pdf:    	assets/publications/2021-robust-xid/cvpr21-robust-xid.pdf
     paper:      https://arxiv.org/abs/2103.15916

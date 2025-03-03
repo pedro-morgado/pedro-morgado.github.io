@@ -2,10 +2,10 @@
 id:             2025-mae-curriculum
 title:          "From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling"
 authors:        [Jones, ChengEn, Huanran Li, Jifan Zhang, YuHen, Me]
-venue:          IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), Nashville, 2025.
+venue:          Conf. on Computer Vision and Pattern Recognition (CVPR), Nashville, 2025.
 year:           "2025-06"
 thumbnail:      https://jonneslin.github.io/assets/publications/2025-mae-prototypes/banner.jpg
-bibtex:         "@InProceedings{lin2025prototypes,<br>&emsp;title={From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling},<br>&emsp;author={Jinhong Lin and Cheng-En Wu and Huanran Li and Jifan Zhang and Yu Hen Hu and Pedro Morgado},<br>&emsp;booktitle={IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},<br>&emsp;year={2025}<br>&emsp;}"
+bibtex:         "@InProceedings{lin2025prototypes,<br>&emsp;title={From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling},<br>&emsp;author={Jinhong Lin and Cheng-En Wu and Huanran Li and Jifan Zhang and Yu Hen Hu and Pedro Morgado},<br>&emsp;booktitle={IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},<br>&emsp;year={2025}<br>}"
 links:
     paper:      https://arxiv.org/abs/2411.10685
     bibtex:     assets/publications/2025-mae-curriculum/ref.txt

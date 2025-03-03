@@ -2,10 +2,10 @@
 id:             2025-token-pruning
 title:          "Patch Ranking: Token Pruning as Ranking Prediction for Efficient CLIP Inference"
 authors:        [ChengEn, Jones, YuHen, Me]
-venue:          IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Tucson, 2025.
+venue:          Winter Conference on Applications of Computer Vision (WACV), Tucson, 2025.
 year:           "2025-02"
 thumbnail:      assets/publications/2025-token-pruning/banner.png
-bibtex:         "@InProceedings{chengen2025pruning,<br>&emsp;title={Patch Ranking: Token Pruning as Ranking Prediction for Efficient CLIP Inference},<br>&emsp;author={Cheng-En Wu and Jinhong Lin and Yu-Hen Yu and Pedro Morgado},<br>&emsp;booktitle={IEEE/CVF Winter Applications in Computer Vision (WACV)},<br>&emsp;year={2025}<br>&emsp;}"
+bibtex:         "@InProceedings{chengen2025pruning,<br>&emsp;title={Patch Ranking: Token Pruning as Ranking Prediction for Efficient CLIP Inference},<br>&emsp;author={Cheng-En Wu and Jinhong Lin and Yu-Hen Yu and Pedro Morgado},<br>&emsp;booktitle={IEEE/CVF Winter Applications in Computer Vision (WACV)},<br>&emsp;year={2025}<br>}"
 links:
     bibtex:     assets/publications/2025-token-pruning/ref.txt
     paper:      https://arxiv.org/abs/2409.14607
