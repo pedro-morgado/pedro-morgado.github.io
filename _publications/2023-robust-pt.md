@@ -9,7 +9,7 @@ bibtex:         "@InProceedings{wu2023_robust_pt,<br>&emsp;title={Why Is Prompt 
 links:
     paper:      https://arxiv.org/abs/2307.11978
     bibtex:     assets/publications/2023-robust-pt/ref.txt
-#    code:       https://github.com/stoneMo/SLAVC
+    code:       https://github.com/CEWu/PTNL
 
 layout: project
 short_title: Robustness of Prompt Tuning
