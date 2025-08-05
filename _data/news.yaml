@@ -1,8 +1,10 @@
 recent:
+  - <b>(Jul 2025)</b> Our paper on TrackVerse, an object-centric video dataset for SSL, accepted at ICCV 2025.
+  - <b>(Jun 2025)</b> I have joined <a href="https://www.skild.ai/">Skild AI</a>. I am excited to start building the next generation of smart robots.
+  - <b>(Jun 2025)</b> Serving as Area Chair at CVPR and NeurIPS 2025.
   - <b>(Mar 2025)</b> Awarded a <a href="https://research.wisc.edu/funding/fall-competition/">OVCR Fall Research Competition grant</a>. Thank you OVCR for supporting our research.
   - <b>(Feb 2025)</b> Our paper on <a href="https://arxiv.org/abs/2411.10685">Efficient curricula for MIM models</a> accepted at CVPR 2025.
   - <b>(Oct 2024)</b> Our paper on <a href="https://arxiv.org/abs/2410.22364">Accelerating the pretraining of vision transformers</a> accepted at NeurIPS 2024.
-  - <b>(Sep 2024)</b> Serving as Area Chair at CVPR 2025.
   - <b>(Jul 2024)</b> Three papers accepted at ECCV 2024 on <a href="https://lzhangbj.github.io/projects/asva/asva.html">Audio-guided video generation</a>, <a href="https://arxiv.org/abs/2407.13095">Language-driven ZSL</a> and <a href="https://arxiv.org/abs/2407.15837">Latent MIM</a>.
   - <b>(Jun 2024)</b> Serving as Area Chair at CVPR and NeurIPS 2024.
   - <b>(Mar 2024)</b> We've received a research gift from Adobe. Thank you for supporting our work!
@@ -11,7 +13,7 @@ recent:
   - <b>(Jun 2023)</b> Invited talk at the <a href="https://ml4mi.wisc.edu/">ML4MI Seminar Series</a> @ University of Wisconsin-Madison.
   - <b>(Apr 2023)</b> Paper on unified audio-visual modeling (<a href="https://arxiv.org/abs/2305.19458">OneAVM</a>) accepted at ICML 2023.
 more:
-  - <b>(Mar 2023)</b> Serving as Area Chair at CVPR 2023 and NeurIPS 2023.
+  - <b>(Mar 2023)</b> Serving as Area Chair at CVPR and NeurIPS 2023.
   - <b>(Feb 2023)</b> Invited talk at the <a href="https://uob-mavi.github.io/meetings/">MaVi Seminar Series</a> @ University of Bristol and at the SIO ML Group @ UCSD
   - <b>(Jan 2023)</b> Awarded the <a href="https://www.warf.org/news/five-projects-selected-for-warf-accelerator-big-data-challenge/">WARF Big Data Challenge Grant</a>. Thank you WARF for supporting our research.
   - <b>(Oct 2022)</b> Invited talk at <a href="https://av4d.org/">AV4D Workshop</a> @ ECCV 2022.
